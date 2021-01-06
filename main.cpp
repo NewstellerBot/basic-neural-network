@@ -3,8 +3,8 @@
 //  Neural network
 //
 //  Created by Krystian Nowak on 16/09/2019.
-//  Copyright © 2019 Krystian Nowak. All rights reserved.
 //
+
 #include <iomanip>
 #include <vector>
 #include <iostream>
